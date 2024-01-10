@@ -1,0 +1,95 @@
+body {
+    font-family:sans-serif;
+    background-color:rgb(223, 255, 223);
+
+}
+
+header img {
+    border:10px solid rgb(165, 255, 255);
+}
+
+a {
+    color: rgb(83, 211, 104);
+    text-decoration:none;
+    background-color: rgb(170, 248, 170);
+    border:1px solid rgb(170, 248, 170);
+    border-radius: 10px;
+    margin:20px;
+    padding :10px;
+}
+
+header h1 {
+    color: rgb(59, 201, 59);
+    background-color: rgb(122, 236, 122);
+    border:1px solid rgb(122, 236, 122);
+    border-radius: 10px;
+    margin:20px;
+    padding :10px;
+    text-align:center;
+}
+
+main h1 {
+    color: rgb(46, 167, 46);
+    background-color: rgb(161, 255, 161);
+    border:1px solid rgb(161, 255, 161);
+    border-radius: 10px;
+    margin:5px;
+    padding :10px;
+}
+
+main img {
+    border:10px solid rgb(165, 255, 255);
+    margin:20px;
+}
+
+main h2 {
+    color: rgb(134, 199, 240);
+    background-color: rgb(203, 235, 255);
+    border-radius: 10px;
+    margin:5px;
+    padding :10px;
+}
+
+main h3 {
+    color: rgb(197, 197, 59);
+    background-color: rgb(255, 255, 186);
+    border-radius: 10px;
+    margin:5px;
+    padding :10px;
+}
+
+main h4 {
+    color: rgb(95, 220, 236);
+    background-color: rgb(180, 248, 255);
+    border-radius: 10px;
+    margin:5px;
+    padding :10px;
+}
+
+main h5 {
+    color: rgb(243, 101, 101);
+    background-color: rgb(255, 193, 193);
+    border-radius: 10px;
+    margin:5px;
+    padding :10px;
+}
+
+main h6 {
+    color: rgb(255, 183, 100);
+    background-color: rgb(255, 137, 27);
+    border-radius: 10px;
+    margin:5px;
+    padding :10px;
+}
+
+footer{
+    background-color: black;
+    border-radius: 10px;
+    margin:5px;
+    padding :10px;
+}
+
+footer h3 {
+    color: white;
+    
+}
