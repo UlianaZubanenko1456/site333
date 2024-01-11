@@ -4,6 +4,10 @@ body {
 
 }
 
+nav {
+    marding:50px;
+}
+
 header img {
     border:10px solid rgb(165, 255, 255);
 }
